@@ -1,0 +1,8 @@
+How to run the program?
+If Python is already installed on the device, double-click 'main.py' file.
+Or else you can just double click the 'main.exe' file and wait for the program to execute.
+
+All the report cards will be generated in the same folder with their respective full names as the pdf name.
+
+=>To read the code, you can open it with any text editor.
+
